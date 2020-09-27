@@ -1,5 +1,0 @@
-#LIST of SQL injections:
-
-password'
-' or 1=1--
-
