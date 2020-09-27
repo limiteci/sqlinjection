@@ -1,0 +1,8 @@
+LIST of SQL injections:
+
+1.
+password'
+if this comes with an error message, it is possible that the site is valnurable to SQL injection.
+2.
+' or 1=1--
+This is the attack
